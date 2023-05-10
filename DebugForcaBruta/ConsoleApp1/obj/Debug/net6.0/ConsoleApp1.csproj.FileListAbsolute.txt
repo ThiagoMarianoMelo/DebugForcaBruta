@@ -1,0 +1,15 @@
+C:\Faculdade\plf-es-2023-1-ti5-5104100-outdoor\codigo\Back-End\DebugForcaBruta\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+C:\Faculdade\plf-es-2023-1-ti5-5104100-outdoor\codigo\Back-End\DebugForcaBruta\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+C:\Faculdade\plf-es-2023-1-ti5-5104100-outdoor\codigo\Back-End\DebugForcaBruta\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+C:\Faculdade\plf-es-2023-1-ti5-5104100-outdoor\codigo\Back-End\DebugForcaBruta\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+C:\Faculdade\plf-es-2023-1-ti5-5104100-outdoor\codigo\Back-End\DebugForcaBruta\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+C:\Faculdade\plf-es-2023-1-ti5-5104100-outdoor\codigo\Back-End\DebugForcaBruta\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Faculdade\plf-es-2023-1-ti5-5104100-outdoor\codigo\Back-End\DebugForcaBruta\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Faculdade\plf-es-2023-1-ti5-5104100-outdoor\codigo\Back-End\DebugForcaBruta\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Faculdade\plf-es-2023-1-ti5-5104100-outdoor\codigo\Back-End\DebugForcaBruta\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+C:\Faculdade\plf-es-2023-1-ti5-5104100-outdoor\codigo\Back-End\DebugForcaBruta\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Faculdade\plf-es-2023-1-ti5-5104100-outdoor\codigo\Back-End\DebugForcaBruta\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+C:\Faculdade\plf-es-2023-1-ti5-5104100-outdoor\codigo\Back-End\DebugForcaBruta\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+C:\Faculdade\plf-es-2023-1-ti5-5104100-outdoor\codigo\Back-End\DebugForcaBruta\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+C:\Faculdade\plf-es-2023-1-ti5-5104100-outdoor\codigo\Back-End\DebugForcaBruta\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+C:\Faculdade\plf-es-2023-1-ti5-5104100-outdoor\codigo\Back-End\DebugForcaBruta\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
